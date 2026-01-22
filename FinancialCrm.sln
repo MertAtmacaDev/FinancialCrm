@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialCrm.DataAccess", "FinancialCrm.DataAccess\FinancialCrm.DataAccess.csproj", "{370785DF-E403-4F4F-9C58-B0860C0FAC9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialCrm.Ui", "FinancialCrm.Ui\FinancialCrm.Ui.csproj", "{2D328424-7ED3-4560-8F40-4E31479A76A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{370785DF-E403-4F4F-9C58-B0860C0FAC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370785DF-E403-4F4F-9C58-B0860C0FAC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370785DF-E403-4F4F-9C58-B0860C0FAC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370785DF-E403-4F4F-9C58-B0860C0FAC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D328424-7ED3-4560-8F40-4E31479A76A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D328424-7ED3-4560-8F40-4E31479A76A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D328424-7ED3-4560-8F40-4E31479A76A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D328424-7ED3-4560-8F40-4E31479A76A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1135BEF7-20E9-49B3-886F-BB090E8AE1FD}
+	EndGlobalSection
+EndGlobal
